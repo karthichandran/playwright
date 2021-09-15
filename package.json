@@ -1,0 +1,11 @@
+{
+  "scripts": {    
+    "test": "npx playwright test "    
+  },
+  "dependencies": {
+    "@nut-tree/nut-js": "^1.7.0",
+    "@playwright/test": "^1.13.1",
+    "moment": "^2.29.1",
+    "playwright": "^1.13.1"
+  }
+}

@@ -1,0 +1,22 @@
+{
+    "loginUrl":"https://development.vmcloudpms.com/",
+    "Property":"00899",
+    "User":"madhu",
+    "Password":"matrix291",
+    "hsk":{
+        "User":"hsk",
+        "Password":"matrix291"
+    },
+    "hskp1":{
+        "User":"hskp1",
+        "Password":"matrix291"
+    },
+    "hb123":{
+        "User":"hb123",
+        "Password":"hb54321"
+    },
+    "parthi":{
+        "User":"Parthi",
+        "Password":"parthi@3456"
+    }
+}

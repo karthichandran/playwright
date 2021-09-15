@@ -1,0 +1,16 @@
+{
+    "IsTokenBasePayment":false,
+    "TokenBasedCards":{
+        "Visa":"8042120918067777",
+        "MasterCard":"8052120929231732",
+        "AmericanExpress":"8032120920441004",
+        "Discover":"8062120929680035"
+    },
+    "NumberBasedCards":{
+        "Visa":"4012000077777777",
+        "MasterCard":"5424180279791732",
+        "AmericanExpress":"373953192351004",
+        "Discover":"6011000991200035"
+    },
+    "Expiry":"1228"
+}
